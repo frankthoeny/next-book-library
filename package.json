@@ -1,0 +1,21 @@
+{
+  "name": "book-library",
+  "version": "1.0.0",
+  "description": "A Next.js application for a book library landing page.",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "next": "latest",
+    "node-fetch": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
